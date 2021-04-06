@@ -7,7 +7,7 @@
                     <div class="row no-gutter">
                         <div class="col-12 text-center">
                             <img src="/wp-content/themes/sage/dist/images/s&s_logo_white.png" width="316" height="73"
-                                alt="" class="img-fluid" id="logo">
+                                alt="Smith & Smith Peronal Injury Attorney Logo" class="img-fluid" id="logo">
                             <ul>
                                 <li><a href="#">Home</a></li>
                                 <li><a href="#">Our Team</a></li>

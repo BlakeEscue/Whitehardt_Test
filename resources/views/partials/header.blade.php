@@ -4,7 +4,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-faded">
             <a class="navbar-brand" href="#">
                 <!-- Logo Image -->
-                <img src="/wp-content/themes/sage/dist/images/s&s_logo.png" width="316" height="73" alt=""
+                <img src="/wp-content/themes/sage/dist/images/s&s_logo.png" width="316" height="73" alt="Smith & Smith Peronal Injury Attorney Logo"
                     class="img-fluid" id="logo">
             </a>
             <button class="navbar-toggler ml-auto float-right" type="button" data-toggle="collapse"
